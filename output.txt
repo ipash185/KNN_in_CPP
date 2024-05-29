@@ -1,0 +1,317 @@
+index of vector: 0
+Time taken to calculate nearest neighbors: 1748 milliseconds
+
+index of vector: 1
+Time taken to calculate nearest neighbors: 1873 milliseconds
+
+index of vector: 2
+Time taken to calculate nearest neighbors: 2151 milliseconds
+
+index of vector: 3
+Time taken to calculate nearest neighbors: 1943 milliseconds
+
+index of vector: 4
+Time taken to calculate nearest neighbors: 2316 milliseconds
+
+index of vector: 5
+Time taken to calculate nearest neighbors: 1916 milliseconds
+
+index of vector: 6
+Time taken to calculate nearest neighbors: 1809 milliseconds
+
+index of vector: 7
+Time taken to calculate nearest neighbors: 1722 milliseconds
+
+index of vector: 8
+Time taken to calculate nearest neighbors: 1543 milliseconds
+
+index of vector: 9
+Time taken to calculate nearest neighbors: 2510 milliseconds
+
+index of vector: 10
+Time taken to calculate nearest neighbors: 2580 milliseconds
+
+index of vector: 11
+Time taken to calculate nearest neighbors: 2565 milliseconds
+
+index of vector: 12
+Time taken to calculate nearest neighbors: 2624 milliseconds
+
+index of vector: 13
+Time taken to calculate nearest neighbors: 2536 milliseconds
+
+index of vector: 14
+Time taken to calculate nearest neighbors: 2555 milliseconds
+
+index of vector: 15
+Time taken to calculate nearest neighbors: 2598 milliseconds
+
+index of vector: 16
+Time taken to calculate nearest neighbors: 2582 milliseconds
+
+index of vector: 17
+Time taken to calculate nearest neighbors: 2623 milliseconds
+
+index of vector: 18
+Time taken to calculate nearest neighbors: 2543 milliseconds
+
+index of vector: 19
+Time taken to calculate nearest neighbors: 2540 milliseconds
+
+index of vector: 20
+Time taken to calculate nearest neighbors: 2532 milliseconds
+
+index of vector: 21
+Time taken to calculate nearest neighbors: 2588 milliseconds
+
+index of vector: 22
+Time taken to calculate nearest neighbors: 2552 milliseconds
+
+index of vector: 23
+Time taken to calculate nearest neighbors: 2671 milliseconds
+
+index of vector: 24
+Time taken to calculate nearest neighbors: 2533 milliseconds
+
+index of vector: 25
+Time taken to calculate nearest neighbors: 2513 milliseconds
+
+index of vector: 26
+Time taken to calculate nearest neighbors: 2555 milliseconds
+
+index of vector: 27
+Time taken to calculate nearest neighbors: 2593 milliseconds
+
+index of vector: 28
+Time taken to calculate nearest neighbors: 2546 milliseconds
+
+index of vector: 29
+Time taken to calculate nearest neighbors: 2526 milliseconds
+
+index of vector: 30
+Time taken to calculate nearest neighbors: 2549 milliseconds
+
+index of vector: 31
+Time taken to calculate nearest neighbors: 2526 milliseconds
+
+index of vector: 32
+Time taken to calculate nearest neighbors: 2561 milliseconds
+
+index of vector: 33
+Time taken to calculate nearest neighbors: 2516 milliseconds
+
+index of vector: 34
+Time taken to calculate nearest neighbors: 2508 milliseconds
+
+index of vector: 35
+Time taken to calculate nearest neighbors: 2496 milliseconds
+
+index of vector: 36
+Time taken to calculate nearest neighbors: 2524 milliseconds
+
+index of vector: 37
+Time taken to calculate nearest neighbors: 2536 milliseconds
+
+index of vector: 38
+Time taken to calculate nearest neighbors: 2552 milliseconds
+
+index of vector: 39
+Time taken to calculate nearest neighbors: 2513 milliseconds
+
+index of vector: 40
+Time taken to calculate nearest neighbors: 2504 milliseconds
+
+index of vector: 41
+Time taken to calculate nearest neighbors: 2550 milliseconds
+
+index of vector: 42
+Time taken to calculate nearest neighbors: 2528 milliseconds
+
+index of vector: 43
+Time taken to calculate nearest neighbors: 2521 milliseconds
+
+index of vector: 44
+Time taken to calculate nearest neighbors: 2479 milliseconds
+
+index of vector: 45
+Time taken to calculate nearest neighbors: 2507 milliseconds
+
+index of vector: 46
+Time taken to calculate nearest neighbors: 2522 milliseconds
+
+index of vector: 47
+Time taken to calculate nearest neighbors: 2491 milliseconds
+
+index of vector: 48
+Time taken to calculate nearest neighbors: 2479 milliseconds
+
+index of vector: 49
+Time taken to calculate nearest neighbors: 2515 milliseconds
+
+index of vector: 50
+Time taken to calculate nearest neighbors: 2538 milliseconds
+
+index of vector: 51
+Time taken to calculate nearest neighbors: 2469 milliseconds
+
+index of vector: 52
+Time taken to calculate nearest neighbors: 2508 milliseconds
+
+index of vector: 53
+Time taken to calculate nearest neighbors: 2512 milliseconds
+
+index of vector: 54
+Time taken to calculate nearest neighbors: 2486 milliseconds
+
+index of vector: 55
+Time taken to calculate nearest neighbors: 2477 milliseconds
+
+index of vector: 56
+Time taken to calculate nearest neighbors: 2458 milliseconds
+
+index of vector: 57
+Time taken to calculate nearest neighbors: 2477 milliseconds
+
+index of vector: 58
+Time taken to calculate nearest neighbors: 2448 milliseconds
+
+index of vector: 59
+Time taken to calculate nearest neighbors: 2452 milliseconds
+
+index of vector: 60
+Time taken to calculate nearest neighbors: 2449 milliseconds
+
+index of vector: 61
+Time taken to calculate nearest neighbors: 2571 milliseconds
+
+index of vector: 62
+Time taken to calculate nearest neighbors: 2454 milliseconds
+
+index of vector: 63
+Time taken to calculate nearest neighbors: 2426 milliseconds
+
+index of vector: 64
+Time taken to calculate nearest neighbors: 2424 milliseconds
+
+index of vector: 65
+Time taken to calculate nearest neighbors: 2511 milliseconds
+
+index of vector: 66
+Time taken to calculate nearest neighbors: 2457 milliseconds
+
+index of vector: 67
+Time taken to calculate nearest neighbors: 2489 milliseconds
+
+index of vector: 68
+Time taken to calculate nearest neighbors: 2488 milliseconds
+
+index of vector: 69
+Time taken to calculate nearest neighbors: 2516 milliseconds
+
+index of vector: 70
+Time taken to calculate nearest neighbors: 2626 milliseconds
+
+index of vector: 71
+Time taken to calculate nearest neighbors: 2439 milliseconds
+
+index of vector: 72
+Time taken to calculate nearest neighbors: 2491 milliseconds
+
+index of vector: 73
+Time taken to calculate nearest neighbors: 2448 milliseconds
+
+index of vector: 74
+Time taken to calculate nearest neighbors: 2482 milliseconds
+
+index of vector: 75
+Time taken to calculate nearest neighbors: 2430 milliseconds
+
+index of vector: 76
+Time taken to calculate nearest neighbors: 2433 milliseconds
+
+index of vector: 77
+Time taken to calculate nearest neighbors: 2522 milliseconds
+
+index of vector: 78
+Time taken to calculate nearest neighbors: 2477 milliseconds
+
+index of vector: 79
+Time taken to calculate nearest neighbors: 2493 milliseconds
+
+index of vector: 80
+Time taken to calculate nearest neighbors: 2430 milliseconds
+
+index of vector: 81
+Time taken to calculate nearest neighbors: 2443 milliseconds
+
+index of vector: 82
+Time taken to calculate nearest neighbors: 2475 milliseconds
+
+index of vector: 83
+Time taken to calculate nearest neighbors: 2529 milliseconds
+
+index of vector: 84
+Time taken to calculate nearest neighbors: 2458 milliseconds
+
+index of vector: 85
+Time taken to calculate nearest neighbors: 2446 milliseconds
+
+index of vector: 86
+Time taken to calculate nearest neighbors: 2526 milliseconds
+
+index of vector: 87
+Time taken to calculate nearest neighbors: 2479 milliseconds
+
+index of vector: 88
+Time taken to calculate nearest neighbors: 2489 milliseconds
+
+index of vector: 89
+Time taken to calculate nearest neighbors: 2448 milliseconds
+
+index of vector: 90
+Time taken to calculate nearest neighbors: 2430 milliseconds
+
+index of vector: 91
+Time taken to calculate nearest neighbors: 2490 milliseconds
+
+index of vector: 92
+Time taken to calculate nearest neighbors: 2549 milliseconds
+
+index of vector: 93
+Time taken to calculate nearest neighbors: 2436 milliseconds
+
+index of vector: 94
+Time taken to calculate nearest neighbors: 2498 milliseconds
+
+index of vector: 95
+Time taken to calculate nearest neighbors: 2433 milliseconds
+
+index of vector: 96
+Time taken to calculate nearest neighbors: 2472 milliseconds
+
+index of vector: 97
+Time taken to calculate nearest neighbors: 2521 milliseconds
+
+index of vector: 98
+Time taken to calculate nearest neighbors: 2442 milliseconds
+
+index of vector: 99
+Time taken to calculate nearest neighbors: 2457 milliseconds
+
+
+Total time taken to calculate nearest neighbors: 262239 millisecondsindex of vector: 0
+Time taken to calculate nearest neighbors: 201 milliseconds
+
+index of vector: 1
+Time taken to calculate nearest neighbors: 204 milliseconds
+
+index of vector: 2
+Time taken to calculate nearest neighbors: 208 milliseconds
+
+index of vector: 3
+Time taken to calculate nearest neighbors: 201 milliseconds
+
+index of vector: 4
+Time taken to calculate nearest neighbors: 177 milliseconds
+
+index of vector: 5
